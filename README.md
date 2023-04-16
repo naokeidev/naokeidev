@@ -15,24 +15,22 @@
 <img align="left" src="IMG/4d94030bb62897c4aa954089ffe7f632-removebg-preview.png" width="130px"/> 
 
 ```csharp
-My Profile v2.0.2: 破壊「はかい」
+My Profile v1.0:「なお けい」
 -------------------------------
-Username: Yoshio Keima.
-WhoamI: physicist and Computer Engineer. Also musician (more or less).
-OS: Ubuntu 22.04.1 LTS.
-Shell: zsh 5.8
-Telegram: @yoshimakayaba.
-FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
+Username: Nao Kei.
+WhoamI: Content Creator. Programmer, Web Developer, Digital Artist, Gamer.
+OS: Artix Linux.
+Shell: Fish.
+Telegram: @naokei.
+Loves: Videogames 🎮, Create Digital Art🎨, Create Programming Project💻.
 Pronouns: He-Him.
 Location: Planet Kepler-452b.
-Languages: C,C++, Python.
-Hobbyes: Python, C, C++.
-Learning: Swift, Kotlin.
-FavouriteSong: Sweeter than wine by NCW.
-FavouriteEquation: Fourier transform. 
-Hobbies: Gaming,Watching anime,Coding 
-while I am listening music.
-My Favourite singers (アイドル):  高橋李依 (Takahashi Rie) and  雨宮天 (Amamiya Sora). 🎤🎶🎼
+Languages: NodeJS, JS, Python.
+Hobbyes: Coding, Fitness, Reading book.
+Learning: Python, JS, NodeJS.
+Hobbies: Gaming, Watching anime, Listening music.
+
+
+
 
 ```

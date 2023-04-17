@@ -74,7 +74,7 @@ Hobbies: Gaming, Watching anime, Listening music.
 
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <div align="center">
-<img src = "IMG/dfc7d542d72d5318672c4384352bccd3.jpg" width = "130"/><br>
+<img src = "IMG/dfc7d542d72d5318672c4384352bccd3.jpg" width = "130px"/><br>
 <a href="https://github.com/naokeidev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>

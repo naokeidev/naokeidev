@@ -43,7 +43,7 @@ Hobbies: Gaming, Watching anime, Listening music.
     </a>
 </p>
 </div>
-
+<br>
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div> 
 <p align = "center">

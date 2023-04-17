@@ -67,14 +67,14 @@ Hobbies: Gaming, Watching anime, Listening music.
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-<img src = "IMG/dfc7d542d72d5318672c4384352bccd3.jpg" width = "400"/><br>
+<img src = "IMG/dfc7d542d72d5318672c4384352bccd3.jpg" width = "130px"/><br>
 <a href="https://github.com/naokeidev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://facebook.com/naokeidev" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%2300acee.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
